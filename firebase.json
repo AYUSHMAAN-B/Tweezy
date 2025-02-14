@@ -1,0 +1,22 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "twitterclone-e263e",
+          "appId": "1:522054103111:android:0033863e117e243ad48162",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "twitterclone-e263e",
+          "configurations": {
+            "android": "1:522054103111:android:0033863e117e243ad48162",
+            "web": "1:522054103111:web:2fc93a97be3971bcd48162"
+          }
+        }
+      }
+    }
+  }
+}

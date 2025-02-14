@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522054103111",
+    "project_id": "twitterclone-e263e",
+    "storage_bucket": "twitterclone-e263e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522054103111:android:0033863e117e243ad48162",
+        "android_client_info": {
+          "package_name": "com.example.minimal_tweets_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnQQjN_Rj7PGrq8BEE6fJRDtAYjJQkBRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
